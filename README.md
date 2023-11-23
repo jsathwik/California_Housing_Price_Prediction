@@ -71,7 +71,7 @@ Good understanding of various packages of sckit-learn library required in implem
 
 Interpret the Evaulation metrics w.r.t Regressor model.
 
-## FAQs
+## ❓ FAQs ❔
 
 #### How does the linear regression model work ?
 Linear Regression relationship between the independent variable X and the dependent variable (response)  y is assumed to be linear. The linear relationship is represented by the equation: y=mx+b, where m is the slope (coefficient) and b is the intercept.
@@ -88,8 +88,11 @@ The objective is to find the values of b0,b1,b2,b3...bn, hat minimize the differ
 
 When using these metrics, a `higher R2_score` and a `lower MSE` generally indicate better model performance, but it's essential to consider the context of your specific problem and the trade-offs between different evaluation metrics.
 
+## Roadmap 🏁
+1. Application of Feature Engineering techniques to increase the overall effectiveness of the model
+2. Implementation of Decision tree model for the same problem statement
 
-## Acknowledgements
+## Acknowledgements 🙌
 
 - [Everything-you-need-to-know-about-Linear-Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/)
 - [regression-metrics](https://www.geeksforgeeks.org/regression-metrics/)
