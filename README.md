@@ -91,8 +91,6 @@ When using these metrics, a `higher R2_score` and a `lower MSE` generally indica
 
 ## Acknowledgements
 
-All the links, blogs, videos, papers you referred to/took inspiration from for building this project. 
-
 - [Everything-you-need-to-know-about-Linear-Regression](https://www.analyticsvidhya.com/blog/2021/10/everything-you-need-to-know-about-linear-regression/)
 - [regression-metrics](https://www.geeksforgeeks.org/regression-metrics/)
 - [scikit-learn California Housing Dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.fetch_california_housing.html#sklearn.datasets.fetch_california_housing)
