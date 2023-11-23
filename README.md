@@ -1,3 +1,4 @@
+![plot](./results/California_Housing.jpg)
 
 # California Housing Price Prediction 🏠🏠
 
